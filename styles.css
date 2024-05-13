@@ -1,0 +1,56 @@
+/* CSS class for centering */
+.centered {
+    text-align: center;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center; /* Aligns main text in the center */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+section {
+    padding: 20px;
+    text-align: center; /* Resets text alignment for sections */
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center; /* Aligns footer text in the center */
+}
+
+.header {
+    padding: 35px;
+    text-align: center;
+    height: 400px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/IMG_2774.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    font-size: 30px;
+  }
+
